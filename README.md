@@ -4,7 +4,11 @@
 
 Aplicacion realizada que permite la carga, actualizacion y eliminacion de un almacen y productos relizados con PHP para el BackEnd, y React, Axios y AntDesign en el FrontEnd. Este ultimo utilizando TypeScript.
 
-> Notas a tener en cuenta: 1-. Las seeds que se corren en esta aplicacion son datos totalmente fictiocios, es decir, no se va a encontrar un nombre de producto como por ejemplo "Schweppes". 2.- Una vez en el FrontEnd si al querer realizar una consulta este mismo no lo permite eperar unos segundos y recargar la pagina.
+> Notas a tener en cuenta:
+
+> 1-. Las seeds que se corren en esta aplicacion son datos totalmente fictiocios, es decir, no se va a encontrar un nombre de producto como por ejemplo "Schweppes".
+
+> 2.- Una vez en el FrontEnd si al querer realizar una consulta este mismo no lo permite eperar unos segundos y recargar la pagina.
 
 ## Instalacion
 
@@ -22,4 +26,6 @@ Aplicacion realizada que permite la carga, actualizacion y eliminacion de un alm
 
 Si se han realizados los pasos correctamente ahora mismo usted podra divisar la pestaña de login en `http://localhost:5173/login`.
 
-> Notas a tener en cuenta: 3.- Al iniciar el sistema y base de datos debe registrar un usuario, ya que las seeds son completamente ficticias y no hay un usuario de prueba preconfigurado
+> Notas a tener en cuenta:
+
+> 3.- Al iniciar el sistema y base de datos debe registrar un usuario, ya que las seeds son completamente ficticias y no hay un usuario de prueba preconfigurado
