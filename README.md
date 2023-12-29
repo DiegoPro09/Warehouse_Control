@@ -14,8 +14,8 @@ Aplicacion realizada que permite la carga, actualizacion y eliminacion de un alm
 
 ### API
 - Clonar o descargar el repositorio.
-- En el directorio del proyecto crear un archivo con el nombre .env
-- Copiar lo que se encuentre en el archivo .env.example en su archivo .env y configurar la base de datos.
+- En el directorio del proyecto crear un archivo con el nombre `.env`
+- Copiar lo que se encuentre en el archivo `.env.example` en su archivo `.env` y configurar la base de datos.
 - En consola navegar hacia el directorio donde se encuentra el proyecto y ejecutar `composer install`.
 - En la misma consola ejecutar las migraciones `php artisan migrate`.
 - Inicar el servidor php con el comando `php artisan serve`.
